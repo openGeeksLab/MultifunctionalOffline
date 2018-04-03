@@ -1,0 +1,3 @@
+rootProject.name = 'MultifunctionalOffline'
+
+include ':app'
